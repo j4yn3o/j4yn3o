@@ -1,2 +1,2 @@
-```business - contact@jayy.gg
-personal - jay@jayy.gg```
+business - contact@jayy.gg
+personal - jay@jayy.gg
